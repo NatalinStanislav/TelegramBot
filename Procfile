@@ -1,1 +1,1 @@
-web: java -jar target/TelegramBotSpbhl-1.0-SNAPSHOT.jar
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* Main

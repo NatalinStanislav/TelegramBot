@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=33500 -cp target/classes:target/dependency/* Main
+web: java -cp target/classes:target/dependency/* Main

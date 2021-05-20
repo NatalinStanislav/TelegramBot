@@ -17,14 +17,14 @@ Telegram bot for checking the statistics of SPBHL-hockey players
 Например, мы хотим отслеживать статистику братьев Максима и Александра Тюшковых.  
 
 Добавляем их в базу (id берем с сайта СПБХЛ):  
-![](https://downloader.disk.yandex.ru/preview/8f42be811bfae8514ed42198c176eb0fe471322a1b82b5d2ae5eb38d9fef6602/60a5b9e8/rUMg5EvJQG9BkU51jTsu7aZJaGOabTyJyaP2BYn-hUPle8rgLFBTyviXWg3nbzRWm8T0x0XvEi7f-4DigTPFFg%3D%3D?uid=0&filename=Group%202.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=400x400)​  
+<img src="https://user-images.githubusercontent.com/60177848/118974045-08854600-b97b-11eb-8726-e04192fa9e34.png" width="375">  
 
 Можем посмотреть список отслеживаемых игроков:  
-![](https://downloader.disk.yandex.ru/preview/e3e8d26068561cf90115f369852b9c7c325e0dd19546abd12f970e8da3c15689/60a5c2fb/WqvIvb8X97PchJ7ib_jXgyLUkk3lfiorFMmi35BpZbREQpCKUdq0098CYsw28JI-G_QsTzGYNAchvya6Krvs2Q%3D%3D?uid=0&filename=Group%201.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=375x375)​  
+<img src="https://user-images.githubusercontent.com/60177848/118974097-1935bc00-b97b-11eb-8e7d-d7971b87b77a.png" width="375">  
 
 Допустим, в последнем хоккейном матче Максим Тюшков забил гол, отдал голевую передачу и заработал штраф. Мы получим оповещение не позднее 10 минут после того, как свежая информация появится на сайте:  
-![](https://downloader.disk.yandex.ru/preview/8d80f1da72ea2cb6dd342d9c4bc395c147fdcc13390ffa910c714158d4d1e294/60a5c4a5/id-0dnCSebIkbzLuupzFDl9_ZJZwnt0ewFtrVQ4F8IbOxY_vxG50hcLaUmWpYDLp516gb851AE0vD1IBuHqSNQ%3D%3D?uid=0&filename=Group%204.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=375x375)​  
+<img src="https://user-images.githubusercontent.com/60177848/118971723-6fedc680-b978-11eb-99f5-e1b5a2f9a8aa.png" width="375">
 
 Если вдруг статистика хоккеиста перестала интересовать, то его можно удалить:  
-![](https://downloader.disk.yandex.ru/preview/04771d8e25170af854b84230e6765eb62f22463923341912b964245a26a595f3/60a5c562/kIUJvyKcmzDyERGFw9GphqZJaGOabTyJyaP2BYn-hUNaGVkQvoG8pyY4Mf5tfqwcn2tsgsQ3O-Kx0nAlYxn_0Q%3D%3D?uid=0&filename=Group%203.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=375x375)​
+<img src="https://user-images.githubusercontent.com/60177848/118973967-ec81a480-b97a-11eb-8d42-1614b8658db8.png" width="375">
 
